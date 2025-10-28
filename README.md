@@ -3,6 +3,8 @@ Overview
 This project explores how social media usage impacts human productivity — both positively and negatively.
 By combining data analysis, behavioral insights, and visualization techniques, the project aims to identify trends, patterns, and correlations between time spent on social platforms and key productivity metrics such as focus, task completion, and mental well-being.
 
+Source URL:https://www.kaggle.com/datasets/mahdimashayekhi/social-media-vs-productivity
+
 Objectives
 
 Analyze the relationship between social media activity and productivity levels.
